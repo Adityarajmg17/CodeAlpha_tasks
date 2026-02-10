@@ -145,7 +145,7 @@ chatbot/
 
 ⚙️ Installation
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/chatbot.git
+git clone 
 cd chatbot
 
 2️⃣ Create Virtual Environment (Optional but Recommended)
